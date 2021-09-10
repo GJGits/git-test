@@ -1,5 +1,5 @@
 master section:
 
- - commitMA
+ - commitMA, commitMB
 
 feature section:
