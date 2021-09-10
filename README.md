@@ -4,4 +4,4 @@ master section:
 
 feature section:
 
- - commitFA
+ - commitFA, commitFB
